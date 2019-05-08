@@ -1,3 +1,5 @@
+// 1.1 Comments
+
 fn main() {
     // This is an example of a line comment
     // Notice how there are two slashes at the beginning of the line
