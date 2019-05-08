@@ -24,6 +24,7 @@ fn main() {
     // Observe how block comments allow easy expression manipulation
     // which line comments do not. Deleting the comment delimiters
     // will change the result:
+
     let x = 5 +  90 +  5;
     println!("Is `x` 10 or 100? x = {}", x);
 }
